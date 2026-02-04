@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <!--
-**VIJAY4084/VIJAY4084** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**VIJAY REDDY D P/VIJAY REDDY D P** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
