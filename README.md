@@ -1,4 +1,4 @@
-### Hi there 👋 I'm [VIJAY4084!](https://github.com/VIJAY4084/VIJAY4084/)
+### Hi there 👋 I'm [Vijay Reddy D P!](https://github.com/Vijay Reddy D P/Vijay Reddy D P/)
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
 
