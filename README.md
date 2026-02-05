@@ -1,7 +1,5 @@
 ### Hi there 👋 I'm [Vijay Reddy D P!](https://github.com/Vijay Reddy D P/Vijay Reddy D P/)
 
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
-
 ## I'm a Python full stack developer intern at destination technologies
 
 - 👨‍💻 I’m currently working on machine learning and data mining projects using python.
